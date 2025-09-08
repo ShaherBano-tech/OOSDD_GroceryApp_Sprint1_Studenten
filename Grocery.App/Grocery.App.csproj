@@ -20,7 +20,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 
-		<!-- Display name is cool -->
+		<!-- Display name -->
 		<ApplicationTitle>GroceryApp</ApplicationTitle>
 
 		<!-- App Identifier -->
